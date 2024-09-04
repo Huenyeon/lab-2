@@ -1,0 +1,1 @@
+print("shimenet like the way i answer")
